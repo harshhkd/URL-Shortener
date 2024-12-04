@@ -22,27 +22,7 @@ A simple and efficient URL Shortener application built using **Node.js**, **Expr
 - **Frontend**: EJS, HTML, CSS
 - **Database**: In-memory (can integrate with MongoDB, for production)
 
-## File Structure
+- ## Package Needed To Run Project
+- "ejs","express","mongoose","nodemon","shortid".
 
-url-shortener/
-│
-├── views/             
-│   ├── home.ejs        
-│
-├── controllers/          
-│   ├── url.js       
-│
-├── models/             
-│   ├── url.js      
-│
-├── routes/           
-│   ├── staticRouter.js      
-│   ├── url.js       
-│
-├── connect.js   
-|
-├── index.js             
-│
-├── package.json        # Project dependencies and scripts
-│
-└── README.md           # Documentation
+
