@@ -23,6 +23,10 @@ A simple and efficient URL Shortener application built using **Node.js**, **Expr
 - **Database**: In-memory (can integrate with MongoDB, for production)
 
 - ## Package Needed To Run Project
-- "ejs","express","mongoose","nodemon","shortid".
+ "ejs"
+ "express"
+ "mongoose"
+ "nodemon"
+ "shortid"
 
 
